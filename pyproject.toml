@@ -1,0 +1,39 @@
+[project]
+name = "hermon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.22",
+    "langchain-community>=0.3.20",
+    "langchain-huggingface>=0.1.2",
+    "langchain-ollama>=0.3.0",
+    "pypdf>=5.4.0",
+    "transformers>=4.50.3",
+    "bcrypt>=4.2.1",
+    "boto3>=1.35.87",
+    "chromadb==0.4.22",
+    "ell-ai>=0.0.15",
+    "fastapi>=0.115.6",
+    "langchain-chroma>=0.1.4",
+    "langchain-community>=0.3.13",
+    "langchain-ollama>=0.2.2",
+    "langchain>=0.3.13",
+    "monsterui>=0.0.9",
+    "pypdf>=5.1.0",
+    "pytest>=8.3.4",
+    "python-fasthtml>=0.10.1",
+    "pywhatkit>=5.4",
+    "requests>=2.32.3",
+    "rich>=13.9.4",
+    "typer>=0.15.1",
+    "uvicorn>=0.34.0",
+    "secure-smtplib>=0.1.1",
+    "pydantic>=2.10.4",
+    "icecream>=2.1.4",
+    "pydantic-ai>=0.0.20",
+    "logfire>=3.5.3",
+    "colorama>=0.4.6",
+    "flask>=3.1.0",
+]
